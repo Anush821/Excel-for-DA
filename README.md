@@ -32,9 +32,21 @@ This project involves analyzing the Consumer Price Indices (CPI) data for Rural 
 
 **• CPI Trend Chart:** 
 
+[
+ ![image](https://github.com/user-attachments/assets/28abc91c-c455-4830-8639-8338bbe057ab)
+]
+
 **• Regional CPI Comparison:** 
 
+[
+![image](https://github.com/user-attachments/assets/c894189a-5b21-42eb-b720-fc2f28b11187)
+]
+
 **• Inflation Rate Analysis:** 
+[
+![image](https://github.com/user-attachments/assets/da0a3568-30b6-4015-8f52-566e3f18ec12)
+
+]
 
 ## Usage Instructions ##
 **Download:**  [Download the data set from https://github.com/Anush821/Excel-for-DA/Dataset]
