@@ -1,6 +1,6 @@
 ## Project Title: Analysis of Consumer Price Indices (CPI) for Rural & Urban Areas ##
 ### Project Overview ###
-This project involves analyzing the Consumer Price Indices (CPI) data for Rural and Urban areas in India, with a base year of 2010. CPI measures the changes over time in the general level of prices of goods and services that households acquire for consumption. The objective of this analysis is to understand inflation trends, price stability, and regional variations in the cost of living.
+This project involves analyzing the Consumer Price Indices (CPI) data for Rural and Urban areas in India, with a base year of 2013. CPI measures the changes over time in the general level of prices of goods and services that households acquire for consumption. The objective of this analysis is to understand inflation trends, price stability, and regional variations in the cost of living.
 
 ### Data Description ###
 **• Data Source :** All India Consumer Price Index data for Rural & Urban areas.
